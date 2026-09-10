@@ -1,0 +1,14 @@
+{
+  "name": "WorkWorth",
+  "short_name": "WorkWorth",
+  "description": "Price purchases in after-tax work time and long-term investment value.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0A0F14",
+  "theme_color": "#0A0F14",
+  "icons": [
+    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
